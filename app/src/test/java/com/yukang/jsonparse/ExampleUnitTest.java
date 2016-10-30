@@ -1,4 +1,4 @@
-package com.yukang.psonparse;
+package com.yukang.jsonparse;
 
 import org.junit.Test;
 

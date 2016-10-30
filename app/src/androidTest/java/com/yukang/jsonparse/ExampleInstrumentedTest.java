@@ -1,4 +1,4 @@
-package com.yukang.psonparse;
+package com.yukang.jsonparse;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

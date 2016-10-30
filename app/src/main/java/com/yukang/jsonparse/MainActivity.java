@@ -1,4 +1,4 @@
-package com.yukang.psonparse;
+package com.yukang.jsonparse;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
